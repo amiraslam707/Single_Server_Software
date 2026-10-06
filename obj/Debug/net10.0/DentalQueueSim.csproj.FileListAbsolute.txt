@@ -1,0 +1,14 @@
+D:\Single_Server_Software_Final\bin\Debug\net10.0\DentalQueueSim.exe
+D:\Single_Server_Software_Final\bin\Debug\net10.0\DentalQueueSim.deps.json
+D:\Single_Server_Software_Final\bin\Debug\net10.0\DentalQueueSim.runtimeconfig.json
+D:\Single_Server_Software_Final\bin\Debug\net10.0\DentalQueueSim.dll
+D:\Single_Server_Software_Final\bin\Debug\net10.0\DentalQueueSim.pdb
+D:\Single_Server_Software_Final\obj\Debug\net10.0\DentalQueueSim.GeneratedMSBuildEditorConfig.editorconfig
+D:\Single_Server_Software_Final\obj\Debug\net10.0\DentalQueueSim.AssemblyInfoInputs.cache
+D:\Single_Server_Software_Final\obj\Debug\net10.0\DentalQueueSim.AssemblyInfo.cs
+D:\Single_Server_Software_Final\obj\Debug\net10.0\DentalQueueSim.csproj.CoreCompileInputs.cache
+D:\Single_Server_Software_Final\obj\Debug\net10.0\DentalQueueSim.dll
+D:\Single_Server_Software_Final\obj\Debug\net10.0\refint\DentalQueueSim.dll
+D:\Single_Server_Software_Final\obj\Debug\net10.0\DentalQueueSim.pdb
+D:\Single_Server_Software_Final\obj\Debug\net10.0\DentalQueueSim.genruntimeconfig.cache
+D:\Single_Server_Software_Final\obj\Debug\net10.0\ref\DentalQueueSim.dll
